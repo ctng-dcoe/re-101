@@ -9,7 +9,6 @@
 
 using namespace std;
 
-// char flag[] = "iamasecretflag";
 string d = "b_d3fu";
 string b = "er{B";
 string c = "0m";
